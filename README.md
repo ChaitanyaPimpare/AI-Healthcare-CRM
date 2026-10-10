@@ -1,4 +1,4 @@
-# AIVOA.AI – AI First Healthcare CRM
+# AI First Healthcare CRM
 
 ## Overview
 
